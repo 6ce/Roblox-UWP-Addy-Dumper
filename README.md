@@ -1,4 +1,4 @@
-# RBXUWPAddyDumper
+# Roblox UWP Addy Dumper
 Originally released as U_Dumper.exe in U_Releases discord server
 
 # Disclaimer
